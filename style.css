@@ -65,9 +65,9 @@ section {
 }
 
 img {
-    border: 2px groove red;
+    border: 2px double red;
     margin-top: 3rem;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+    box-shadow: 0 8px 16px rgb(0, 0, 0);
     margin-bottom: 3rem;
 }
 
